@@ -1,3 +1,5 @@
 # SugarTasks
-npm install
-npx vite
+
+npm install\
+
+npx vite\
